@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **[Tamagui](https://github.com/tamagui/tamagui), [Solito](https://github.com/nandorojo/solito), [Next.js](https://github.com/vercel/next.js/), [React Native Web](https://github.com/necolas/react-native-web)**
 
-- 🔭 I’m currently working on [CodeAndyCode.com](codeandycode.com)
+- 🔭 I’m currently working on [CodeAndyCode.com](https://codeandycode.com)
 
-- 👨‍💻 All of my projects are available at [codeandycode.com/portfolio](codeandycode.com/portfolio)
+- 👨‍💻 All of my projects are available at [codeandycode.com/portfolio](https://codeandycode.com/portfolio)
 
-- 📄 Know about my experiences [codeandycode.com/cv](codeandycode.com/cv)
+- 📄 Know about my experiences [codeandycode.com/cv](https://codeandycode.com/cv)
 
 - ⚡ Fun fact **CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."**
 
