@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."**
 
-  <img src="https://komarev.com/ghpvc/?username=code-andy-code&label=Visitors&color=7b219f&style=flat" alt="code-andy-code" />
+  <img src="https://komarev.com/ghpvc/?username=codeandycode&label=Visitors&color=7b219f&style=flat" alt="codeandycode" />
 
 
 </td>
 <td>
-<p align="right"> <img src="https://github.com/code-andy-code/code-andy-code/blob/main/sticker.png?raw=true" width="356" height="256" alt="code-andy-code" /> </p>
+<p align="right"> <img src="https://github.com/code-andy-code/code-andy-code/blob/main/sticker.png?raw=true" width="356" height="256" alt="codeandycode" /> </p>
 
 </td>
 </tr>
 </table>
-<p align="left"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-andy-code&theme=react-dark" alt="code-andy-code" /> </p>
+<p align="left"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeandycode&theme=react-dark" alt="codeandycode" /> </p>
 
