@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 
 </td>
 <td>
-<p align="right"> <img src="https://github.com/code-andy-code/code-andy-code/blob/main/sticker.png?raw=true" width="356" height="256" alt="codeandycode" /> </p>
+<p align="right"> <img src="https://github.com/code-andy-code/code-andy-code/blob/main/sticker.png?raw=true" width="356" height="256" alt="code-andy-code" /> </p>
 
 </td>
 </tr>
 </table>
-<p align="left"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeandycode&theme=react-dark" alt="codeandycode" /> </p>
+<p align="left"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-andy-code&theme=react-dark" alt="code-andy-code" /> </p>
 
