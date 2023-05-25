@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-<p align="left"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-andy-code&theme=react-dark" alt="code-andy-code" /> </p>
+<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeAndyCode&theme=react-dark" alt="code-andy-code" /> </p>
 
